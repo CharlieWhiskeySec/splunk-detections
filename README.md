@@ -1,6 +1,27 @@
-# splunk-detections
-Detection engineering and log analysis using Splunk, focused on identifying authentication attacks and anomalous activity in a simulated enterprise environment.
+# Project Name
 
-This repository contains detection use cases, dashboards, and investigations built using Splunk in a home lab environment. The lab simulates enterprise authentication activity using a Windows Active Directory domain, with attack traffic generated from a Kali Linux system.
+## Overview
+Brief description of what this project is.
 
-The focus of this repository is to demonstrate practical SOC analyst skills, including log analysis, detection logic development, and alert creation.
+## Objective
+What I wanted to learn or demonstrate.
+
+## Tools Used
+- Splunk Enterprise
+- Windows Server / Active Directory
+- Windows 10 Endpoint
+- Kali Linux
+- Sysmon / Windows Event Logs
+
+## Skills Demonstrated
+- Log analysis
+- SPL searching
+- Detection logic
+- Dashboard creation
+- Authentication event analysis
+
+## Project Status
+In progress
+
+## Notes
+This project is part of my cybersecurity engineering portfolio focused on SIEM, identity, and detection engineering.

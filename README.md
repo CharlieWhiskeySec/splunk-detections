@@ -77,3 +77,23 @@ Each detection will follow a consistent format:
 ## Investigation Guidance
 
 ## Future Improvements
+
+```
+
+### Technologies
+
+- Splunk Enterprise
+- Windows Server
+- Active Directory
+- Windows Security Event Logs
+- Sysmon
+
+### Skills
+
+- Detection Engineering
+- SPL Search Development
+- Windows Event Analysis
+- Field Extraction
+- Authentication Monitoring
+- Security Troubleshooting
+- Technical Documentation

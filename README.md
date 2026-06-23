@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains detection logic, dashboards, and engineering notes developed within a self-built Active Directory security lab using Splunk Enterprise.
+This repository contains detection logic, dashboards, and engineering notes developed within a self-built Active Directory security environment using Splunk Enterprise.
 
 The focus is not simply writing SPL searches, but understanding how Windows security telemetry is ingested, interpreted, and transformed into actionable security detections. Each detection is developed using real events generated within the lab environment and includes supporting engineering decisions, troubleshooting steps, and investigation guidance.
 

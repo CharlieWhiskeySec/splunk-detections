@@ -50,13 +50,17 @@ The issue was determined to be related to timestamp interpretation within the la
 
 ## Solution
 
-Event validation was performed using **All Time** searches while the timestamp discrepancy was investigated. This allowed detection development to continue without interrupting progress on the project.
+Investigation determined that event ingestion was functioning correctly and that the issue was not related to the Splunk Universal Forwarder or Windows event collection.
+
+The lab environment was using the Splunk Free license, which does not provide access to user preferences for adjusting the default timezone. As a result, relative time searches did not align with the timestamps being displayed within the environment.
+
+To continue development without interrupting progress, event validation was performed using All Time searches while documenting the platform limitation for future reference.
 
 ## Lessons Learned
 
-Before assuming data collection has failed, verify whether the issue is related to event timestamps, timezone configuration, or search time ranges.
+Not every issue is caused by incorrect configuration or data ingestion. Platform limitations can also influence how data is presented and queried.
 
-Validating event ingestion using broader search windows can quickly distinguish between an ingestion problem and a timestamp-related issue.
+Before troubleshooting log sources, verify whether the behavior is related to licensing restrictions, timezone settings, or search time ranges. Understanding the capabilities and limitations of the platform is just as important as understanding the data itself.
 
 ---
 

@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-# Splunk Detection Engineering
+Splunk Detection Engineering
 </h1>
 
 ## Overview

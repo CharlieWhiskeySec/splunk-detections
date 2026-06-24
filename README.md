@@ -6,6 +6,13 @@
 Splunk Detection Engineering
 </h1>
 
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Detection Categories](#detection-categories)
+- [Authentication Monitoring](#authentication-monitoring)
+- [Technologies](#technologies)
+- [Skills](#skills)
+
 ## Overview
 
 This repository contains detection logic, dashboards, and engineering notes developed within a self-built Active Directory security environment using Splunk Enterprise.
@@ -106,7 +113,7 @@ Each detection will follow a consistent format:
 - [Windows Security Event Reference](windows-event-reference.md)
 - [Event ID 4740 - Account Lockout Detection](authentication/4740-account-lockout-detection.md)
 
-- ## Related Projects
+## Related Projects
 
 - [Active Directory Security Lab](https://github.com/CharlieWhiskeySec/active-directory-security-lab)
 - [SOC Investigations](https://github.com/CharlieWhiskeySec/soc-investigations)

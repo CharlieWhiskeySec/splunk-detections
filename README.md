@@ -97,3 +97,9 @@ Each detection will follow a consistent format:
 - Authentication Monitoring
 - Security Troubleshooting
 - Technical Documentation
+
+- ## Related Projects
+
+- [Active Directory Security Lab](https://github.com/CharlieWhiskeySec/active-directory-security-lab)
+- [SOC Investigations](https://github.com/CharlieWhiskeySec/soc-investigations)
+- [Traffic Analysis](https://github.com/CharlieWhiskeySec/traffic-analysis)

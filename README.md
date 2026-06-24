@@ -9,7 +9,7 @@ Splunk Detection Engineering
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [Detection Categories](#detection-categories)
-- [Authentication Monitoring](#authentication-monitoring)
+- [Engineering Philosophy](#engineering-philosophy)
 - [Technologies](#technologies)
 - [Skills](#skills)
 

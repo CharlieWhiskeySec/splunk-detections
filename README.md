@@ -98,6 +98,12 @@ Each detection will follow a consistent format:
 - Security Troubleshooting
 - Technical Documentation
 
+- ## Documentation
+
+- [Engineering Challenges](engineering-challenges.md)
+- [Windows Security Event Reference](windows-event-reference.md)
+- [Event ID 4740 - Account Lockout Detection](authentication/4740-account-lockout-detection.md)
+
 - ## Related Projects
 
 - [Active Directory Security Lab](https://github.com/CharlieWhiskeySec/active-directory-security-lab)
